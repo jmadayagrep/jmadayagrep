@@ -20,8 +20,6 @@
 
 🥾 Hiking enthusiast who enjoys exploring the outdoors and discovering new places
 
-😴 Proud owner of a serious Snorlax addiction (as my profile clearly shows 😂)
-
 🚀 All about discovering new ideas, learning new technologies, and growing through hands-on experience
 
 ✨ Curious mind • Creative builder • Lifelong learner loading… ████████░░
