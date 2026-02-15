@@ -1,10 +1,7 @@
 ## 👋 About Me
 
 <h1 align="center">
-  Jedd Madayag 
-  <a href="https://ben10.fandom.com/wiki/Omnitrix">
-    <img src="https://media.tenor.com/7x9D3vBqF6YAAAAC/omnitrix-ben10.gif" width="40"/>
-  </a>
+  Jedd Madayag
 </h1>
 
 I’m a **Computer Science graduate** passionate about technology, data, and problem-solving. During university, I completed projects in **Software Engineering, Object-Oriented Programming, Business Intelligence, and UX Design**, where I applied technical and analytical skills to real-world scenarios.
