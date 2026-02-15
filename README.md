@@ -1,31 +1,39 @@
-                                                                                                                         ## 👋 About Me
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+</div>
 
-<h1 align="center">
-  Jedd Madayag
-</h1>
+<div align="center" width="50">
+                                                                                                                         
+<div align="center">
+<img height="270" width="300" alt="GIF" align="center" src="https://github.com/jmadayagrep/jmadayagrep/blob/main/snorlax%20wave.gif">
+</div>
+
+
+
+</br>                                                                                                                      
+                                                                                                                                                                   
+💻 Computer Science grad on a mission to level up in IT & Data Analysis
+
+🎮 Gamer at heart — I enjoy a mix of worlds and genres, from sandbox creativity to competitive play (Minecraft, League of Legends, Valorant, Terraria)
+
+🎵 Music lover — playing piano for 8 years and guitar for 4 years, and always vibing to all kinds of genres
+
+🥾 Hiking enthusiast who enjoys exploring the outdoors and discovering new places
+
+😴 Proud owner of a serious Snorlax addiction (as my profile clearly shows 😂)
+
+🚀 All about discovering new ideas, learning new technologies, and growing through hands-on experience
+
+✨ Curious mind • Creative builder • Lifelong learner loading… ████████░░
+                                                                                                                                                                                                                
+
+---
 
 I’m a **Computer Science graduate** passionate about technology, data, and problem-solving. During university, I completed projects in **Software Engineering, Object-Oriented Programming, Business Intelligence, and UX Design**, where I applied technical and analytical skills to real-world scenarios.
 
-I’m currently seeking opportunities in **IT or Data Analysis**, and I enjoy building projects that combine software development with data-driven insights. Outside of tech, I’m a gamer who appreciates the creativity and engineering behind interactive systems.
+I’m currently seeking opportunities in **IT or Data Analysis**. Outside of tech, I’m a gamer who appreciates the creativity and engineering behind interactive systems.
 
 ---
-
-💻 Computer Science graduate focused on building a career in **IT & Data Analysis**
-
-📊 Passionate about Business Intelligence, data analytics, and turning raw data into meaningful insights through real-world projects
-
-🎮 Gamer at heart — fascinated by the tech and design behind interactive systems and digital experiences
-
-🛠️ Constantly learning new tools, improving my technical skills, and experimenting with data-driven projects
-
-🚀 Actively seeking opportunities to grow, collaborate, and contribute in the tech industry
-
-✨ Professional mindset • Creative curiosity • Lifelong learner
-
----
-
-## 🧰 Languages & Technologies
-
 <p align="left">
 
 <a href="https://www.java.com" target="_blank">
@@ -93,3 +101,4 @@ I’m currently seeking opportunities in **IT or Data Analysis**, and I enjoy bu
 </a>
 
 </p>
+
