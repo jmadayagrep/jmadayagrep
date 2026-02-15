@@ -1,19 +1,5 @@
 ## 👋 About Me
 
-
-
-<p align="center">
-  <a href="https://ben10.fandom.com/wiki/Ben_10_Wiki">
-    <img src="https://media.tenor.com/9vRAkntW1s8AAAAC/ben10-ben.gif" width="300" alt="Ben 10 animation"/>
-  </a>
-</p>
-
-
-
-
-
-
-
 I’m a **Computer Science graduate** passionate about technology, data, and problem-solving. During university, I completed projects in **Software Engineering, Object-Oriented Programming, Business Intelligence, and UX Design**, where I applied technical and analytical skills to real-world scenarios.
 
 I’m currently seeking opportunities in **IT or Data Analysis**, and I enjoy building projects that combine software development with data-driven insights. Outside of tech, I’m a gamer who appreciates the creativity and engineering behind interactive systems.
