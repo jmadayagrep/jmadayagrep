@@ -1,16 +1,91 @@
-<h1 align="center">Hi 👋, I'm Jedd Madayag</h1>
-<h3 align="center">Computer Science Graduate looking for a cereer in IT/Data Analysis</h3>
+## 👋 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jmadayagrep&label=Profile%20views&color=0e75b6&style=flat" alt="jmadayagrep" /> </p>
+I’m a **Computer Science graduate** passionate about technology, data, and problem-solving. During university, I completed projects in **Software Engineering, Object-Oriented Programming, Business Intelligence, and UX Design**, where I applied technical and analytical skills to real-world scenarios.
 
-- 📫 How to reach me **jeddmadayag@outlook.com**
+I’m currently seeking opportunities in **IT or Data Analysis**, and I enjoy building projects that combine software development with data-driven insights. Outside of tech, I’m a gamer who appreciates the creativity and engineering behind interactive systems.
 
-- ⚡ Fun fact **I have a snorlax addiction**
+---
 
-<h3 align="left">Connect with me:</h3>
+💻 Computer Science graduate focused on building a career in **IT & Data Analysis**
+
+📊 Passionate about Business Intelligence, data analytics, and turning raw data into meaningful insights through real-world projects
+
+🎮 Gamer at heart — fascinated by the tech and design behind interactive systems and digital experiences
+
+🛠️ Constantly learning new tools, improving my technical skills, and experimenting with data-driven projects
+
+🚀 Actively seeking opportunities to grow, collaborate, and contribute in the tech industry
+
+✨ Professional mindset • Creative curiosity • Lifelong learner
+
+---
+
+## 🧰 Languages & Technologies
+
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/jedd-madayag-2048972b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jedd-madayag-2048972b7" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<a href="https://www.java.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" />
+</a>
+
+<a href="https://www.python.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://isocpp.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=bash" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+
+<a href="https://racket-lang.org" target="_blank">
+  <img src="https://img.shields.io/badge/Dr.Racket-9F1D20?style=for-the-badge&logo=racket&logoColor=white" />
+</a>
+
+<a href="https://react.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://nodejs.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+
+<a href="https://www.tensorflow.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</a>
+
+<a href="https://scikit-learn.org" target="_blank">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</a>
+
+<a href="https://pandas.pydata.org" target="_blank">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</a>
+
+<a href="https://numpy.org" target="_blank">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</a>
+
+<a href="https://matplotlib.org" target="_blank">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+</a>
+
+<a href="https://seaborn.pydata.org" target="_blank">
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+</a>
+
+</p>
